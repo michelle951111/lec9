@@ -1,3 +1,4 @@
-#secrets.py
 client_key = "albHIYJB4isMNpK6d332e3Vzd"
 client_secret = "m6JuS5jK73uQ1SvLUxh85MDcHKXQFOAs6ZIhtDqPmUDSJqkKTw"
+access_token ="818457396431335426-FQVZpuY8PZrcjqZ9B3kX2785dcDrGdb"
+access_token_secret = "tA7GqcCGQzPvsE0JnwjlDVux5jl9Dvm0Xs5I9j4jMo12B"

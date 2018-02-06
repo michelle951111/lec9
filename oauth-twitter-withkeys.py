@@ -20,9 +20,9 @@ protected_url = 'https://api.twitter.com/1.1/search/tweets.json'
 params = {'q':'food'}
 r = oauth.get(protected_url, params=params)
 result_list=json.loads(r.text)["statuses"]
-for t in result_list:
-    print (t["user"]["name"])
-    print (t["text"])
+for n in result_list:
+    print (n["user"]["name"])
+    print (n["text"])
 
 
 #print (r.text)
